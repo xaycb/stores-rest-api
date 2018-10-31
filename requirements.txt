@@ -13,3 +13,4 @@ six==1.11.0
 SQLAlchemy==1.2.12
 Werkzeug==0.14.1
 uwsgi
+psycopg2
